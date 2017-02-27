@@ -1,0 +1,64 @@
+
+body {
+  left: 0;
+  margin: 0;
+
+  position: relative;
+    background-image: url("http://responseit.ca/wp-content/uploads/2015/03/AbstractWeb.jpg");
+    padding: 50px;
+}
+#Heading { 
+    width: 100%;
+    padding: 2px;
+text-align: -moz-center;
+   /* background-color:#e62e00;*/
+    color: ghostwhite;
+}
+h1{
+   font-size: 75px;
+    font-family: fantasy;
+    color: #ff0080;
+}
+h2{
+    font-size: 45px;
+    padding: 5px;
+     cursor: pointer;
+    font-family: cursive;
+    color:  #00ffcc;
+}
+a{
+    color: crimson;
+}
+h3{ font-size: 40px;
+    font-family: cursive;
+    color: crimson;
+}
+li{
+    padding: 5px;
+}
+
+p ,em, ul,ol{
+    padding: 2px;
+    font-family: serif;
+    color: #ccffcc;
+    font-size: 25px;
+}
+
+#Sopic{
+
+    border: none;
+    height:200px;
+    width:200px;
+    border-radius: 100%;
+
+}
+.contact{
+    font-family: fantasy;
+   
+    color: #e62e00;
+}
+.description {
+  display: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
